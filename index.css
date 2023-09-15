@@ -1,7 +1,10 @@
-.background{
+body {
     background-image: url("Gru.png"); 
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-#naglowek {
-    text-decoration-color: red;
+h1.mu {
+    color: red;
 }
+
