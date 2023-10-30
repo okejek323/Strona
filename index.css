@@ -7,7 +7,7 @@
 }
 
 body, html {
-    background-color: rebeccapurple;
+    background-color: blue;
     height: 100%;
 }
 
@@ -39,7 +39,7 @@ li{
     padding: 10px 15px;
     border: 2px solid blue;
     border-radius: 1px;
-    background-color: lightblue;
+    background-color: orange;
 }    
 
 .zdjęcie-hero {
